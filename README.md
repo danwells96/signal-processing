@@ -30,3 +30,6 @@ The dataset can be loaded using Matlab and records are in the following format:
   * 7: Numerics time (in seconds)
   * 8: PAP waveform sampling frequency (in Hz)
   * 9: Numerics sampling frequency (in Hz)
+  
+  
+In order to run any algorithms, all functions and scripts must be in the same directory as the working directory
